@@ -5,4 +5,6 @@ class class
   def meow
     puts "meow!"
   end
+  
 end
+
