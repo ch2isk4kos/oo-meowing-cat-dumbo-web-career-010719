@@ -10,5 +10,5 @@ end
 
 # garfield = Cat.new
 # garfield.name = "Garfield"
-# 
+#
 # garfield.meow
